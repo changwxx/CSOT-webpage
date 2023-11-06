@@ -1,4 +1,4 @@
-# UniOT project page
+# CSOT project page
 
 [Project page](https://changwxx.github.io/CSOT-webpage/) for [NeurIPS 2023] CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels.
 
